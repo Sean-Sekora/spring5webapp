@@ -1,4 +1,4 @@
-package guru.springframework.spring5webapp;
+package guru.springframework.spring5webapp.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
